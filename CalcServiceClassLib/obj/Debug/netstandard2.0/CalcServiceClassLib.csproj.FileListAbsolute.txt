@@ -1,0 +1,12 @@
+D:\Projects\net core service\CalcServiceClassLib\bin\Debug\netstandard2.0\CalcServiceClassLib.deps.json
+D:\Projects\net core service\CalcServiceClassLib\bin\Debug\netstandard2.0\CalcServiceClassLib.dll
+D:\Projects\net core service\CalcServiceClassLib\bin\Debug\netstandard2.0\CalcServiceClassLib.pdb
+D:\Projects\net core service\CalcServiceClassLib\obj\Debug\netstandard2.0\CalcServiceClassLib.csprojAssemblyReference.cache
+D:\Projects\net core service\CalcServiceClassLib\obj\Debug\netstandard2.0\CalcServiceClassLib.csproj.CoreCompileInputs.cache
+D:\Projects\net core service\CalcServiceClassLib\obj\Debug\netstandard2.0\CalcServiceClassLib.AssemblyInfoInputs.cache
+D:\Projects\net core service\CalcServiceClassLib\obj\Debug\netstandard2.0\CalcServiceClassLib.AssemblyInfo.cs
+D:\Projects\net core service\CalcServiceClassLib\obj\Debug\netstandard2.0\CalcServiceClassLib.dll
+D:\Projects\net core service\CalcServiceClassLib\obj\Debug\netstandard2.0\CalcServiceClassLib.pdb
+D:\Projects\net core service\CalcServiceClassLib\bin\Debug\netstandard2.0\CalcBL.dll
+D:\Projects\net core service\CalcServiceClassLib\bin\Debug\netstandard2.0\CalcBL.pdb
+D:\Projects\net core service\CalcServiceClassLib\obj\Debug\netstandard2.0\CalcServiceClassLib.csproj.CopyComplete

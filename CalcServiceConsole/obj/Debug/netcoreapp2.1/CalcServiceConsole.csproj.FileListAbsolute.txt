@@ -1,0 +1,14 @@
+D:\Projects\net core service\CalcServiceConsole\bin\Debug\netcoreapp2.1\CalcServiceConsole.deps.json
+D:\Projects\net core service\CalcServiceConsole\bin\Debug\netcoreapp2.1\CalcServiceConsole.runtimeconfig.json
+D:\Projects\net core service\CalcServiceConsole\bin\Debug\netcoreapp2.1\CalcServiceConsole.runtimeconfig.dev.json
+D:\Projects\net core service\CalcServiceConsole\bin\Debug\netcoreapp2.1\CalcServiceConsole.dll
+D:\Projects\net core service\CalcServiceConsole\bin\Debug\netcoreapp2.1\CalcServiceConsole.pdb
+D:\Projects\net core service\CalcServiceConsole\obj\Debug\netcoreapp2.1\CalcServiceConsole.csproj.CoreCompileInputs.cache
+D:\Projects\net core service\CalcServiceConsole\obj\Debug\netcoreapp2.1\CalcServiceConsole.AssemblyInfoInputs.cache
+D:\Projects\net core service\CalcServiceConsole\obj\Debug\netcoreapp2.1\CalcServiceConsole.AssemblyInfo.cs
+D:\Projects\net core service\CalcServiceConsole\obj\Debug\netcoreapp2.1\CalcServiceConsole.dll
+D:\Projects\net core service\CalcServiceConsole\obj\Debug\netcoreapp2.1\CalcServiceConsole.pdb
+D:\Projects\net core service\CalcServiceConsole\bin\Debug\netcoreapp2.1\CalcBL.dll
+D:\Projects\net core service\CalcServiceConsole\bin\Debug\netcoreapp2.1\CalcBL.pdb
+D:\Projects\net core service\CalcServiceConsole\obj\Debug\netcoreapp2.1\CalcServiceConsole.csprojAssemblyReference.cache
+D:\Projects\net core service\CalcServiceConsole\obj\Debug\netcoreapp2.1\CalcServiceConsole.csproj.CopyComplete

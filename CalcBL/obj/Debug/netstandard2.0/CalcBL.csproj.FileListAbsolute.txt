@@ -1,0 +1,9 @@
+D:\Projects\net core service\CalcBL\bin\Debug\netstandard2.0\CalcBL.deps.json
+D:\Projects\net core service\CalcBL\bin\Debug\netstandard2.0\CalcBL.dll
+D:\Projects\net core service\CalcBL\bin\Debug\netstandard2.0\CalcBL.pdb
+D:\Projects\net core service\CalcBL\obj\Debug\netstandard2.0\CalcBL.csproj.CoreCompileInputs.cache
+D:\Projects\net core service\CalcBL\obj\Debug\netstandard2.0\CalcBL.AssemblyInfoInputs.cache
+D:\Projects\net core service\CalcBL\obj\Debug\netstandard2.0\CalcBL.AssemblyInfo.cs
+D:\Projects\net core service\CalcBL\obj\Debug\netstandard2.0\CalcBL.dll
+D:\Projects\net core service\CalcBL\obj\Debug\netstandard2.0\CalcBL.pdb
+D:\Projects\net core service\CalcBL\obj\Debug\netstandard2.0\CalcBL.csprojAssemblyReference.cache
